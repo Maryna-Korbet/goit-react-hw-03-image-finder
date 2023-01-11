@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/css/main.a8c0aa0b.css",
-    "main.js": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/js/main.cfb508d6.js",
+    "main.css": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/css/main.115991ec.css",
+    "main.js": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/js/main.352a705b.js",
     "index.html": "/Maryna-Korbet/goit-react-hw-03-image-finder/index.html",
-    "main.a8c0aa0b.css.map": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/css/main.a8c0aa0b.css.map",
-    "main.cfb508d6.js.map": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/js/main.cfb508d6.js.map"
+    "main.115991ec.css.map": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/css/main.115991ec.css.map",
+    "main.352a705b.js.map": "/Maryna-Korbet/goit-react-hw-03-image-finder/static/js/main.352a705b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8c0aa0b.css",
-    "static/js/main.cfb508d6.js"
+    "static/css/main.115991ec.css",
+    "static/js/main.352a705b.js"
   ]
 }
